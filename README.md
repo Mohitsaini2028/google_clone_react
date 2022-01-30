@@ -5,7 +5,7 @@
 ## Introduction
 
 
- This Repository contain a Google Clone app. We're using React and Goole Search API powered by https://rapidapi.com.
+ This Repository contain a Google Clone app. We're using React, Tailwind CSS and Goole Search API powered by https://rapidapi.com.
 
 
 Setup:
