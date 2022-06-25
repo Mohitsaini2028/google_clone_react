@@ -1,7 +1,8 @@
 # Goggl - The Most Unique Search Engine in the World
 
 
-#Search Anything
+```$ Search Anything```
+
 ![chrome_SKFnnKsydI](https://user-images.githubusercontent.com/66358041/163673245-f8b77903-0c0c-409a-b05e-898c1467dcb3.png)
 
 
