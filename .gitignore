@@ -13,7 +13,7 @@
 
 # misc
 /env
-env
+.env.development
 .env
 .DS_Store
 .env.local
