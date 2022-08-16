@@ -35,3 +35,6 @@
 Setup:
 - run ```npm i && npm start``` to start the development server
 
+Website Live at: 
+[Googl CLone](https://ornate-jelly-145cf9.netlify.app/search)
+ 
